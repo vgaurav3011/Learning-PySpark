@@ -57,3 +57,7 @@ $ python3 -c "import pyspark"
 ```
 
 If this executes correctly, then the installation was successfull. Note that you may use Python 2 as well instead of version 3.6.7!
+
+# Spark Ecosystem
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/Learning-PySpark/master/images/spark-diagram-1.png)
